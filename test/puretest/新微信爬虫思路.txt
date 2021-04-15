@@ -1,0 +1,4 @@
+1. 打开Charles 安装证书并解决乱码问题(https://zhuanlan.zhihu.com/p/100553753)
+2. 选择在微信内置浏览器打开"查看历史消息"
+3. Charles抓取微信内置浏览器的包 获取curl
+4. curl导入到postman 请求参数列表的Settings中禁用SSL证书认证 然后发起请求(整个过程Charles都是开着的!)

@@ -1,0 +1,8 @@
+import html2text as ht
+
+if __name__ == '__main__':
+    text_maker = ht.HTML2Text()
+    # text_maker.ignore_images = True
+    article_content_markdown = text_maker.handle(
+        '<img class="rich_pages __bg_gif" data-ratio="0.15644171779141106" data-src="https://mmbiz.qpic.cn/mmbiz_gif/Pn4Sm0RsAujHRSdcX3IznHduusnhVrSgibxlHEaKkBO8A7UcDdDzAnMIA2ZLfuoUKKJrwSA8HPTejcSLotzprZw/640?wx_fmt=gif" data-type="gif" data-w="652" style="box-sizing: border-box !important;overflow-wrap: break-word !important;visibility: visible !important;width: 652px !important;"/>')
+    print(article_content_markdown)

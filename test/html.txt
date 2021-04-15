@@ -1,0 +1,17 @@
+https://
+res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/pages/video_error.html49b95f.js,
+/mmbizwap/zh_CN/htmledition/js/biz_common/tmpl4eefa0.js,
+/mmbizwap/zh_CN/htmledition/js/new_video/ctl4a46b1.js,
+/mmbizwap/zh_CN/htmledition/js/new_video/player52253e.js,
+/mmbizwap/zh_CN/htmledition/js/new_video/plugin/danmu516628.js,
+/mmbizwap/zh_CN/htmledition/js/new_video/plugin/ad5240b6.js,
+/mmbizwap/zh_CN/htmledition/js/new_video/plugin/proxy4d5545.js,
+/mmbizwap/zh_CN/htmledition/js/pages/report4a2c10.js,
+/mmbizwap/zh_CN/htmledition/js/pages/version4video4e7528.js,
+/mmbizwap/zh_CN/htmledition/js/biz_wap/utils/storage42f400.js,
+/mmbizwap/zh_CN/htmledition/js/biz_wap/utils/localstorage42f400.js,
+/mmbizwap/zh_CN/htmledition/js/pages/video_plugin/video_monitor4c4c98.js,
+/mmbizwap/zh_CN/htmledition/js/pages/loadscript42f400.js,
+/mmbizwap/zh_CN/htmledition/js/pages/iframe_communicate4848aa.js,
+/mmbizwap/zh_CN/htmledition/js/a/a_utils5240b6.js,
+/mmbizwap/zh_CN/htmledition/js/biz_wap/ui/weui4e964f.js?v=1003

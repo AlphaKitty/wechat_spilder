@@ -1,0 +1,17 @@
+ua_id=G6mpKTulKjJAIha8AAAAAMw6NUjuSnBovSGNgbNvfuQ=;
+pgv_pvi=7863293952;
+pgv_pvid=2369417070;
+pac_uid=0_5bf27073e1488;
+iip=0;
+ptui_loginuin=372219506@qq.com;
+RK=Dfp91l/3P/;
+ptcz=37927868dd82aac640455163d09eb5e5f34063b6391cb8b880c7e5a591bcf52c;
+tvfe_boss_uuid=c5472c52d40d0d35;
+rewardsn=;
+wxtokenkey=777;
+wxuin=1211206234;
+devicetype=Windows10x64;
+version=6300002f;
+lang=zh_CN;
+pass_ticket=CG5Ee1LHXRD96YYy3QumCrK31Ruj8y+/eocA61edtR4MJs70opPlFWd+vsH13XM3;
+wap_sid2=CNqUxsEEEooBeV9ITXN4RWdtTDdEQlF4QkEwRzAyQ3hCYkRIRjdWN1dVSVhzR3NPRDJ0ZnItSzFJM2l3SUtTZk8tOE90Z2JPV21pNjhIanZRUnhtVGV1eE83Qk1FWHU0M0R5bkpheTBfMFp6TFhSSkV3dC1jMERITWQ3Zm1XZ3dhT0lGSzVCX1lhclpSOFNBQUF+MIL7qf4FOA1AAQ==
