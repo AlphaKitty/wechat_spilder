@@ -1,0 +1,15 @@
+ABTEST=8|1618929033|v1
+expires=Thu, 20-May-21 14:30:33 GMT
+path=/, SNUID=582AB67F7E78BE1634907C717E79DBF6      --------------    同一爬虫站点爬多次会因这个值相同而触发验证码
+expires=Wed, 20-Apr-22 14:30:33 GMT
+domain=.sogou.com
+path=/, IPLOC=CN1100
+expires=Wed, 20-Apr-22 14:30:33 GMT
+domain=.sogou.com
+path=/, SUID=2654CB015B0CA00A00000000607EE589       --------------    可以用来生成SNUID
+expires=Mon, 15-Apr-2041 14:30:33 GMT
+domain=weixin.sogou.com
+path=/, black_passportid=1
+domain=.sogou.com
+path=/
+expires=Thu, 01-Dec-1994 16:00:00 GMT
