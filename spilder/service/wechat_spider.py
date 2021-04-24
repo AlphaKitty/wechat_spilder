@@ -1,17 +1,17 @@
 # 请求网页
+import datetime
+import html
+# json解析
+import json
+import time
+
+# html转markdown
+import html2text as ht
+# 数据库
+import pymysql
 import requests
 # 美化html
 from bs4 import BeautifulSoup
-# html转markdown
-import html2text as ht
-# json解析
-import json
-# 数据库
-import pymysql
-import html
-import time
-import datetime
-import traceback
 
 
 class WechatSpider:
@@ -351,7 +351,7 @@ class WechatSpider:
         if 'java基础' in lower or '面向对象' in lower or 'list' in lower or 'collection' in lower \
                 or 'hashmap' in lower or 'object' in lower or '数组' in lower \
                 or '集合' in lower or 'stringbuffer' in lower or 'stringbuilder' in lower \
-                or '循环' in lower or '抽象类' in lower or '切面' in lower or 'gc' in lower or 'oom' in lower or 'stream' in lower\
+                or '循环' in lower or '抽象类' in lower or '切面' in lower or 'gc' in lower or 'oom' in lower or 'stream' in lower \
                 or '反射' in lower or 'switch' in lower or ('if' in lower and 'else' in lower):
             result = 7
         if '职场经验' in lower:
